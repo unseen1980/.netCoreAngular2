@@ -7,3 +7,8 @@ Assuming that you have [.NET Core already installed] (https://www.microsoft.com/
 3. dotnet restore
 4. dotnet run
 5. In browser type http://localhost:5000
+
+
+## License
+
+The content of this project is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
